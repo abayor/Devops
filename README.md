@@ -1,3 +1,3 @@
 # git
 
-first commit
+Our first git session
